@@ -1,0 +1,9 @@
+{
+  "name": "qlubber",
+  "description": "An app to make your night memorable.",
+  "author": "David Farr <dfarr219@gmail.com>",
+  "dependencies": {
+    "connect": "*"
+  },
+  "engine": "node >= 0.4.1"
+}

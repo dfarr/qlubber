@@ -1,0 +1,22 @@
+{
+	"id": 1,
+	"name": "Smuggler's Cove",
+	"city": "San Francisco",
+	"pos": {
+		"lat":37.779444,
+		"lon":-122.423295
+	},
+	"gender":0.4,
+	"busy":0.2,
+	"price":0.5,
+	"friends": [
+		{ "name": "David Farr" }
+	],
+	"address": {
+		"number":650,
+		"street":"Gough St.",
+		"city": "San Francisco",
+		"zip":94012,
+		"country":"USA"
+	}
+}

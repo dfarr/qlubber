@@ -1,0 +1,29 @@
+[
+	{
+		"id": 0,
+		"name": "Ruby Skye",
+		"city": "San Francisco",
+		"pos": {
+			"lat":37.787592,
+			"lon":-122.409805
+		},
+		"gender":"female",
+		"busy":3,
+		"price":3,
+		"friends":3
+	},
+
+	{
+		"id": 1,
+		"name": "Smuggler's Cove",
+		"city": "San Francisco",
+		"pos": {
+			"lat":37.779444,
+			"lon":-122.423295
+		},
+		"gender":"male",
+		"busy":1,
+		"price":2,
+		"friends":1
+	}
+]

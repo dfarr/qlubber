@@ -1,0 +1,24 @@
+{
+	"id": 0,
+	"name": "Ruby Skye",
+	"city": "San Francisco",
+	"pos": {
+		"lat":37.787592,
+		"lon":-122.409805
+	},
+	"gender":0.6,
+	"busy":0.9,
+	"price":0.8,
+	"friends": [
+		{ "name": "Lukas Masuch" },
+		{ "name": "Max Wesel" },
+		{ "name": "Saher Javid" }
+	],
+	"address": {
+		"number":420,
+		"street":"Mason St.",
+		"city": "San Francisco",
+		"zip":94012,
+		"country":"USA"
+	}
+}

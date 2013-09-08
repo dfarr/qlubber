@@ -1,0 +1,15 @@
+# dependancies
+node_modules
+node_modules/
+
+# generated files
+bin
+bin/
+
+# other
+bak
+bak/
+
+#  thumbnail db
+desktop.ini
+.DS_Store
