@@ -42,9 +42,7 @@ qlubberDirectives.directive('map', function () {
 					            icon: 'img/icon.png'
 					        });
 
-					        Markers.google.push(marker);
-					        Markers.data.push(scope.places);
-    					}
+					        Markers.push(marker);    					}
 
     					// Events(Markers);
 

@@ -1,3 +1,17 @@
-<p>This is the map details</p>
+<div class="container-fluid">
+  <div class="row-fluid details-header">
+  	<p>{{place.name}}</p>
+  </div>
 
-<p>{{place}}</p>
+  <div class="row-fluid">
+  	<p>{{place.address.number}} {{place.address.street}}<br />
+  	{{place.address.city}}</p>
+  </div>
+
+  <div class="row-fluid">
+  	<h1>Friends</h1>
+  	<div ng-repeat="friend in place.friends" class="details-friends">
+  		<p>{{friend.name}}</p>
+  	</div>
+  </div>
+</div>
