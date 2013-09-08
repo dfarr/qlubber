@@ -2,6 +2,7 @@
 	{
 		"id": 0,
 		"name": "Ruby Skye",
+		"type":"club",
 		"city": "San Francisco",
 		"pos": {
 			"lat":37.787592,
@@ -16,6 +17,7 @@
 	{
 		"id": 1,
 		"name": "Smuggler's Cove",
+		"type":"bar",
 		"city": "San Francisco",
 		"pos": {
 			"lat":37.779444,
@@ -25,5 +27,65 @@
 		"busy":1,
 		"price":2,
 		"friends":1
+	},
+
+	{
+		"id": 2,
+		"name": "City Nights",
+		"type":"club",
+		"city": "San Francisco",
+		"pos": {
+			"lat":37.782047,
+			"lon":-122.397617
+		},
+		"gender":"male",
+		"busy":2,
+		"price":1,
+		"friends":1
+	},
+
+	{
+		"id": 3,
+		"name": "The Patio",
+		"type":"club",
+		"city": "Palo Alto",
+		"pos": {
+			"lat":37.445063,
+			"lon":-122.163948
+		},
+		"gender":"female",
+		"busy":3,
+		"price":2,
+		"friends":2
+	},
+
+	{
+		"id": 4,
+		"name": "The Old Pro",
+		"type":"bar",
+		"city": "Palo Alto",
+		"pos": {
+			"lat":37.444939,
+			"lon":-122.161188
+		},
+		"gender":"male",
+		"busy":3,
+		"price":1,
+		"friends":3
+	},
+
+	{
+		"id": 5,
+		"name": "TechCrunch Hackathon",
+		"type":"special",
+		"city": "San Francisco",
+		"pos": {
+			"lat":37.771038,
+			"lon":-122.404854
+		},
+		"gender":"male",
+		"busy":3,
+		"price":1,
+		"friends":3
 	}
 ]

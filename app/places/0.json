@@ -1,6 +1,7 @@
 {
 	"id": 0,
 	"name": "Ruby Skye",
+	"type":"club",
 	"city": "San Francisco",
 	"pos": {
 		"lat":37.787592,
@@ -10,15 +11,16 @@
 	"busy":0.9,
 	"price":0.8,
 	"friends": [
-		{ "name": "Lukas Masuch" },
-		{ "name": "Max Wesel" },
-		{ "name": "Saher Javid" }
+		{ "name": "Mila Kunis" },
+		{ "name": "Ashton Kutcher" },
+		{ "name": "Tommy Chong" }
 	],
 	"address": {
 		"number":420,
 		"street":"Mason St.",
 		"city": "San Francisco",
 		"zip":94012,
+		"state": "California",
 		"country":"USA"
 	}
 }

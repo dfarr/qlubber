@@ -1,6 +1,7 @@
 {
 	"id": 1,
 	"name": "Smuggler's Cove",
+	"type":"bar",
 	"city": "San Francisco",
 	"pos": {
 		"lat":37.779444,
@@ -10,13 +11,14 @@
 	"busy":0.2,
 	"price":0.5,
 	"friends": [
-		{ "name": "David Farr" }
+		{ "name": "Joseph Gordon-Levitt" }
 	],
 	"address": {
 		"number":650,
 		"street":"Gough St.",
 		"city": "San Francisco",
 		"zip":94012,
+		"state": "California",
 		"country":"USA"
 	}
 }

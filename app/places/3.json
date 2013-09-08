@@ -1,0 +1,25 @@
+{
+	"id": 3,
+	"name": "The Patio",
+	"type":"club",
+	"city": "Palo Alto",
+	"pos": {
+		"lat":37.445063,
+		"lon":-122.163948
+	},
+	"gender":0.7,
+	"busy":0.8,
+	"price":0.4,
+	"friends": [
+		{ "name": "Matt Damon" },
+		{ "name": "George Clooney" }
+	],
+	"address": {
+		"number":412,
+		"street":"Emerson St, Palo Alto",
+		"city": "Palo Alto",
+		"zip":94301,
+		"state": "California",
+		"country":"USA"
+	}
+}

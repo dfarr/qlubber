@@ -1,0 +1,24 @@
+{
+	"id": 2,
+	"name": "City Nights",
+	"type":"club",
+	"city": "San Francisco",
+	"pos": {
+		"lat":37.782047,
+		"lon":-122.397617
+	},
+	"gender":0.3,
+	"busy":0.5,
+	"price":0.2,
+	"friends": [
+		{ "name": "Charlie Sheen" }
+	],
+	"address": {
+		"number":715,
+		"street":"Harrison St.",
+		"city": "San Francisco",
+		"zip":94017,
+		"state": "California",
+		"country":"USA"
+	}
+}

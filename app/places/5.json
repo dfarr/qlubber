@@ -1,0 +1,26 @@
+{
+	"id": 5,
+	"name": "TechCrunch Hackathon",
+	"type":"special",
+	"city": "San Francisco",
+	"pos": {
+		"lat":37.771038,
+		"lon":-122.404854
+	},
+	"gender":0.1,
+	"busy":0.9,
+	"price":0.1,
+	"friends": [
+		{ "name": "David Farr" },
+		{ "name": "Lukas Masuch" },
+		{ "name": "Max Wesel" }
+	],
+	"address": {
+		"number":635,
+		"street":"8th St.",
+		"city": "San Francisco",
+		"zip":94012,
+		"state": "California",
+		"country":"USA"
+	}
+}

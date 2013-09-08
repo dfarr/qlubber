@@ -1,0 +1,26 @@
+{
+	"id": 3,
+	"name": "The Old Pro",
+	"type":"bar",
+	"city": "Palo Alto",
+	"pos": {
+		"lat":37.444939,
+		"lon":-122.161188
+	},
+	"gender":0.2,
+	"busy":0.9,
+	"price":0.2,
+	"friends": [
+		{ "name": "Jason Segel" },
+		{ "name": "Seth Rogen" },
+		{ "name": "James Franco" }
+	],
+	"address": {
+		"number":412,
+		"street":"Emerson St.",
+		"city": "Palo Alto",
+		"zip":94301,
+		"state": "California",
+		"country":"USA"
+	}
+}
